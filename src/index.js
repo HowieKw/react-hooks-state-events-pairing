@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./components/App";
+import ReactTube from "./components/ReactTube";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<ReactTube />, document.getElementById("root"));
